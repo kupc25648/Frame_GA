@@ -17,10 +17,13 @@ The master_frame_GA.py will create 3 outputs
 
 Example
 A graph of average strain energy in each iteration
+<br>
 <img src="src/GA_population100_iteration200_Initial_0.32_Final_0.32_AVG.png">
+<br/>
 An image of the strcutre
+<br>
 <img src="src/Figure_1.png">
-
+<br/>
 Please feel free to contact me at kupc25648@hotmail.com
 
 

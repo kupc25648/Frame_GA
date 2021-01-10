@@ -2,7 +2,8 @@
 Frame optimization using Genetic Algorithm in python
 
 This is the frame topology optimization program using Genetic Algorithm(GA).
-There are many types of GA. The type of GA in this program is developed from professor Yamamoto Kenji and Minakawa Youichi.
+There are many types of GA. The type of GA in this program is developed from professor Yamamoto Kenji and Minakawa Youichi's GA.
+The program optimize the strain energy of the frame structure by adjusting nodal heights.
 
 The repository includes 4 files
 1. FEM_frame.py : 3D Frame structural analysis file
